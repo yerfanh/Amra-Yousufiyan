@@ -1,4 +1,3 @@
-# Amra-Yousufiyan
 /// Home Page showing member list
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
